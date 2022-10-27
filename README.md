@@ -1,2 +1,2 @@
 # is-kiko
-Checks whether incoming test is 'kiko'.
+Checks whether incoming text is 'kiko'.
