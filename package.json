@@ -1,6 +1,6 @@
 {
   "name": "is-kiko",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is the string kiko?",
   "main": "index.js",
   "scripts": {
